@@ -17,6 +17,9 @@
       <Flammability>0.7</Flammability>
       <SharpDamageMultiplier>0.5</SharpDamageMultiplier>
       <BluntDamageMultiplier>0.75</BluntDamageMultiplier>
+      <StuffPower_Armor_Sharp>1.5</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>1.05</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>1.28</StuffPower_Armor_Heat>
     </statBases>
     <stuffProps>
       <categories>
@@ -58,10 +61,16 @@
       <texPath>Things/Item/Resource/ABSWeave</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <useHitPoints>false</useHitPoints>
     <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
       <MarketValue>3.6</MarketValue>
       <Mass>0.05</Mass>
+      <Flammability>0.3</Flammability>
+      <DeteriorationRate>3</DeteriorationRate>
+      <StuffPower_Armor_Sharp>2.5</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>1.25</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>2.88</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Heat>1.65</StuffPower_Insulation_Heat>
     </statBases>
     <stuffProps>
       <categories>
@@ -77,9 +86,6 @@
       <statFactors>
         <MaxHitPoints>2.5</MaxHitPoints>
         <WorkToMake>1.3</WorkToMake>
-        <ArmorRating_Blunt>1.25</ArmorRating_Blunt>
-        <ArmorRating_Sharp>2.5</ArmorRating_Sharp>
-        <ArmorRating_Heat>1.65</ArmorRating_Heat>
         <Flammability>0.3</Flammability>
         <DeteriorationRate>0.05</DeteriorationRate>
       </statFactors>
@@ -97,10 +103,16 @@
       <texPath>Things/Item/Resource/ABSReinforcedWeave</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <useHitPoints>false</useHitPoints>
     <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
       <MarketValue>10</MarketValue>
       <Mass>0.05</Mass>
+      <DeteriorationRate>1.0</DeteriorationRate>
+      <StuffPower_Armor_Sharp>4</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>3</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>2.88</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Heat>1.65</StuffPower_Insulation_Heat>
+      <Flammability>0.3</Flammability>
     </statBases>
     <stuffProps>
       <categories>
@@ -118,9 +130,6 @@
       <statFactors>
         <MaxHitPoints>2.5</MaxHitPoints>
         <WorkToMake>2.3</WorkToMake>
-        <ArmorRating_Blunt>3</ArmorRating_Blunt>
-        <ArmorRating_Sharp>4</ArmorRating_Sharp>
-        <ArmorRating_Heat>1.65</ArmorRating_Heat>
         <Flammability>0.3</Flammability>
         <DeteriorationRate>0.05</DeteriorationRate>
       </statFactors>
