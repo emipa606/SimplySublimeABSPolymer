@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: producing Polymer at -->
+  <MakeABSPolymerFromChemfuel.gerund>producing Polymer at</MakeABSPolymerFromChemfuel.gerund>
+  <!-- EN: produce Polymer from -->
+  <MakeABSPolymerFromChemfuel.verb>produce Polymer from</MakeABSPolymerFromChemfuel.verb>
+  <!-- EN: producing Polymer at -->
+  <MakeABSPolymerFromOrganics.gerund>producing Polymer at</MakeABSPolymerFromOrganics.gerund>
+  <!-- EN: produce Polymer from -->
+  <MakeABSPolymerFromOrganics.verb>produce Polymer from</MakeABSPolymerFromOrganics.verb>
+  <!-- EN: producing Polymer at -->
+  <MakeABSPolymerFromWood.gerund>producing Polymer at</MakeABSPolymerFromWood.gerund>
+  <!-- EN: produce Polymer from -->
+  <MakeABSPolymerFromWood.verb>produce Polymer from</MakeABSPolymerFromWood.verb>
+</LanguageData>

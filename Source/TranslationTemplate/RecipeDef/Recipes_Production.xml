@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Make ABS Polymer from chemfuel -->
+  <MakeABSPolymerFromChemfuel.label>Make ABS Polymer from chemfuel</MakeABSPolymerFromChemfuel.label>
+  <!-- EN: Make a batch of ABS Polymer by refining chemfuel. -->
+  <MakeABSPolymerFromChemfuel.description>Make a batch of ABS Polymer by refining chemfuel.</MakeABSPolymerFromChemfuel.description>
+  <!-- EN: Making ABS Polymer from chemfuel. -->
+  <MakeABSPolymerFromChemfuel.jobString>Making ABS Polymer from chemfuel.</MakeABSPolymerFromChemfuel.jobString>
+  <!-- EN: Make ABS Polymer from organics -->
+  <MakeABSPolymerFromOrganics.label>Make ABS Polymer from organics</MakeABSPolymerFromOrganics.label>
+  <!-- EN: Make a batch of ABS Polymer from organic feedstocks. Faster, but will produce less. -->
+  <MakeABSPolymerFromOrganics.description>Make a batch of ABS Polymer from organic feedstocks. Faster, but will produce less.</MakeABSPolymerFromOrganics.description>
+  <!-- EN: Making ABS Polymer from organics. -->
+  <MakeABSPolymerFromOrganics.jobString>Making ABS Polymer from organics.</MakeABSPolymerFromOrganics.jobString>
+  <!-- EN: Make ABS Polymer from wood -->
+  <MakeABSPolymerFromWood.label>Make ABS Polymer from wood</MakeABSPolymerFromWood.label>
+  <!-- EN: Make a batch of Polymer ABS Polymer from wood. Faster, but will produce less -->
+  <MakeABSPolymerFromWood.description>Make a batch of Polymer ABS Polymer from wood. Faster, but will produce less</MakeABSPolymerFromWood.description>
+  <!-- EN: Making ABS Polymer from wood. -->
+  <MakeABSPolymerFromWood.jobString>Making ABS Polymer from wood.</MakeABSPolymerFromWood.jobString>
+  <!-- EN: Make ABS Polymer Weave -->
+  <MakeABSPolymerWeave.label>Make ABS Polymer Weave</MakeABSPolymerWeave.label>
+  <!-- EN: Make ABS Polymer Weave from cloth and ABS Polymer. -->
+  <MakeABSPolymerWeave.description>Make ABS Polymer Weave from cloth and ABS Polymer.</MakeABSPolymerWeave.description>
+  <!-- EN: Making ABS Polymer Weave. -->
+  <MakeABSPolymerWeave.jobString>Making ABS Polymer Weave.</MakeABSPolymerWeave.jobString>
+  <!-- EN: Make Reinforced ABS Polymer Weave -->
+  <MakeReinforcedABSPolymerWeave.label>Make Reinforced ABS Polymer Weave</MakeReinforcedABSPolymerWeave.label>
+  <!-- EN: Make Reinforced ABS Polymer Weave from ABS weave and steel. -->
+  <MakeReinforcedABSPolymerWeave.description>Make Reinforced ABS Polymer Weave from ABS weave and steel.</MakeReinforcedABSPolymerWeave.description>
+  <!-- EN: Making ABS Polymer Weave. -->
+  <MakeReinforcedABSPolymerWeave.jobString>Making ABS Polymer Weave.</MakeReinforcedABSPolymerWeave.jobString>
+</LanguageData>

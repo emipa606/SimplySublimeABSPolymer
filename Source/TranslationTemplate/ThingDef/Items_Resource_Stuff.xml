@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ABS Polymer -->
+  <ABSPolymer.label>ABS Polymer</ABSPolymer.label>
+  <!-- EN: Organic ABS Polymer made from refined chemfuel, wood or organics. -->
+  <ABSPolymer.description>Organic ABS Polymer made from refined chemfuel, wood or organics.</ABSPolymer.description>
+  <!-- EN: ABS Polymer Weave -->
+  <ABSPolymerWeave.label>ABS Polymer Weave</ABSPolymerWeave.label>
+  <!-- EN: A cloth-like material made of ABS Polymer fibers. Quite tough. -->
+  <ABSPolymerWeave.description>A cloth-like material made of ABS Polymer fibers. Quite tough.</ABSPolymerWeave.description>
+  <!-- EN: Reinforced ABS Polymer Weave -->
+  <ReinforcedABSPolymerWeave.label>Reinforced ABS Polymer Weave</ReinforcedABSPolymerWeave.label>
+  <!-- EN: A cloth-like material made of ABS Polymer fibers and steel. Extremely tough. -->
+  <ReinforcedABSPolymerWeave.description>A cloth-like material made of ABS Polymer fibers and steel. Extremely tough.</ReinforcedABSPolymerWeave.description>
+</LanguageData>
