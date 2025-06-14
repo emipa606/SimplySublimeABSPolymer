@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 4095489309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8aff09f424d3fe442c76b8bf116c3d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e8aff09f424d3fe442c76b8bf116c3d9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Thin_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Male_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Fat_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Female_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Male_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Hulk_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Building/Production/ABSworkTable1.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Fat_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Female_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Female_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Female_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Thin_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Thin_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Female_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Male_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Fat_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Male_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Male_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Item/Resource/ABSReinforcedWeave.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Thin_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Item/Resource/ABSWeave.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Filth/BrokenABS.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Fat_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Hulk_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Building/Production/ABSworkTable.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Thin_north.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Thin_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Hulk_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Hulk_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Female_east.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Fat_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Male_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Fat_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ReinforcedABSJumpsuit_Hulk_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Apparel/ABSJumpsuit_Hulk_south.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Things/Item/Resource/ABS.png
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Terrain/Surfaces/ABSFloorBase.jpg
+- Assets/Data/Mlie.SimplySublimeABSPolymer/Textures/Terrain/Surfaces/XCFs/ABSFloorBase.png
+Dependencies: []
